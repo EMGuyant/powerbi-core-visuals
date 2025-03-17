@@ -1,0 +1,201 @@
+﻿ReviewID,ProductID,Review,SatisfactionScore,AgeBin,PromotionalSale,Shipping,SalesEvent,SalesID
+6,3,This smartphone has an excellent display and battery life.,4,Youth,Not Applied,In Store,TRUE,26
+105,9,"Smooth performance, but lacks a headphone jack.",4,Young Adult,Not Applied,In Store,FALSE,31
+74,1,This smartphone has an excellent display and battery life.,4,Young Adult,Applied,In Store,FALSE,35
+266,5,"Fast boot times, but it overheats with heavy usage.",4,Young Adult,Applied,Express,FALSE,46
+174,9,"Ideal for reading and browsing, but speakers could be better.",4,Young Adult,Applied,Standard,TRUE,49
+220,6,This laptop is powerful and handles multitasking with ease.,4,Senior,Applied,Standard,FALSE,50
+86,6,"Great keyboard and display, but storage space is limited.",4,Mid-Age Adult,Applied,Standard,FALSE,55
+46,15,"Comfortable fit, but noise cancellation is average.",4,Adult,Applied,Express,TRUE,65
+102,5,"Perfect for work and entertainment, but fan noise is noticeable.",4,Adult,Applied,Express,FALSE,80
+148,1,"Value for money, but software updates are slow.",4,Adult,Not Applied,Express,TRUE,88
+145,9,This tablet is perfect for media consumption and light gaming.,4,Youth,Not Applied,Standard,FALSE,96
+12,6,Audio quality is quite poor for a laptop in this range.,4,Mid-Age Adult,Not Applied,Overnight,TRUE,103
+184,8,"Ideal for reading and browsing, but speakers could be better.",4,Mid-Age Adult,Not Applied,Standard,FALSE,106
+256,9,"Snappy and responsive, but limited app availability.",4,Mid-Age Adult,Not Applied,Overnight,TRUE,129
+183,1,This smartphone has an excellent display and battery life.,4,Mid-Age Adult,Applied,Express,FALSE,132
+116,5,"Perfect for work and entertainment, but fan noise is noticeable.",4,Youth,Not Applied,Overnight,TRUE,139
+269,10,"Fast and smooth interface, but app selection is limited.",4,Senior,Applied,In Store,FALSE,143
+67,4,"Great keyboard and display, but storage space is limited.",4,Mid-Age Adult,Applied,Overnight,TRUE,145
+181,10,"Fast and smooth interface, but app selection is limited.",4,Senior,Applied,Standard,TRUE,148
+52,10,"Fast and smooth interface, but app selection is limited.",4,Youth,Not Applied,Express,FALSE,149
+261,1,"The camera quality is outstanding, but the battery drains quickly.",4,Youth,Not Applied,In Store,TRUE,152
+143,8,"Snappy and responsive, but limited app availability.",4,Youth,Not Applied,Express,FALSE,160
+156,6,"Great keyboard and display, but storage space is limited.",4,Senior,Applied,Overnight,FALSE,178
+126,4,"Lightweight and portable, but the battery backup could be better.",4,Adult,Not Applied,In Store,TRUE,180
+130,5,"Perfect for work and entertainment, but fan noise is noticeable.",4,Adult,Applied,In Store,FALSE,186
+98,9,"Snappy and responsive, but limited app availability.",4,Youth,Applied,Overnight,TRUE,201
+113,6,"Great keyboard and display, but storage space is limited.",4,Young Adult,Not Applied,In Store,TRUE,207
+226,10,"Great smart features, but the remote is not very responsive.",4,Mid-Age Adult,Not Applied,Overnight,FALSE,210
+172,2,"Fast performance, but the phone heats up during gaming.",4,Senior,Applied,Standard,TRUE,212
+78,10,"Fast and smooth interface, but app selection is limited.",4,Youth,Not Applied,Standard,FALSE,219
+283,2,This smartphone has an excellent display and battery life.,4,Youth,Applied,Express,TRUE,232
+207,3,This smartphone has an excellent display and battery life.,4,Youth,Applied,In Store,TRUE,239
+96,5,"Lightweight and portable, but the battery backup could be better.",4,Senior,Applied,In Store,FALSE,251
+42,11,"A solid buy for streaming, but it could benefit from a faster processor.",4,Mid-Age Adult,Not Applied,Overnight,FALSE,260
+25,13,The sound quality and bass are fantastic; it’s like a personal concert.,4,Mid-Age Adult,Not Applied,Standard,FALSE,264
+97,3,This smartphone has an excellent display and battery life.,4,Mid-Age Adult,Applied,Express,TRUE,288
+91,1,"Fast performance, but the phone heats up during gaming.",4,Youth,Not Applied,Express,FALSE,289
+121,1,"Value for money, but software updates are slow.",4,Adult,Applied,Overnight,TRUE,290
+245,5,"Lightweight and portable, but the battery backup could be better.",4,Adult,Not Applied,In Store,FALSE,292
+93,8,This tablet is perfect for media consumption and light gaming.,4,Senior,Applied,Overnight,TRUE,293
+160,5,"Lightweight and portable, but the battery backup could be better.",4,Adult,Applied,Express,TRUE,300
+61,10,Crisp audio and excellent 4K resolution for movies.,4,Adult,Not Applied,In Store,FALSE,307
+38,7,"Perfect for reading books, though app performance could be faster.",4,Mid-Age Adult,Applied,Standard,FALSE,313
+267,2,"Value for money, but software updates are slow.",4,Adult,Not Applied,In Store,FALSE,315
+141,2,"Sleek design and great features, but lacks expandable storage.",4,Youth,Not Applied,Standard,TRUE,321
+62,4,"Lightweight and portable, but the battery backup could be better.",4,Senior,Applied,In Store,FALSE,329
+251,2,"Value for money, but software updates are slow.",4,Senior,Not Applied,Standard,TRUE,342
+16,7,"Great for portability, but it’s slow when handling more demanding applications.",4,Young Adult,Applied,Standard,FALSE,344
+8,5,"Solid for daily tasks, though it’s not powerful enough for gaming.",4,Adult,Applied,Overnight,FALSE,387
+1,1,"This smartphone has excellent battery life, but the screen could be a bit brighter.",4,Senior,Applied,Express,TRUE,393
+149,10,"Great smart features, but the remote is not very responsive.",4,Adult,Not Applied,Overnight,TRUE,408
+193,5,"Fast boot times, but it overheats with heavy usage.",4,Adult,Not Applied,Standard,TRUE,412
+230,1,This smartphone has an excellent display and battery life.,4,Senior,Applied,Overnight,FALSE,415
+66,10,"Good budget-friendly TV, but viewing angles could be improved.",4,Adult,Applied,Express,FALSE,416
+109,10,"Fast and smooth interface, but app selection is limited.",4,Young Adult,Not Applied,Express,TRUE,419
+26,14,"Good noise cancellation, but they could be more comfortable.",4,Adult,Not Applied,In Store,TRUE,431
+128,8,"Snappy and responsive, but limited app availability.",4,Senior,Applied,In Store,TRUE,432
+263,6,"Lightweight and portable, but the battery backup could be better.",4,Youth,Not Applied,Express,TRUE,439
+185,7,"Snappy and responsive, but limited app availability.",4,Youth,Not Applied,Overnight,TRUE,442
+198,2,"Sleek design and great features, but lacks expandable storage.",4,Young Adult,Applied,Standard,FALSE,457
+28,13,"Great for gym sessions, though they feel a bit tight around the ears.",4,Young Adult,Not Applied,Express,FALSE,480
+36,5,"Very quiet in operation, but this laptop could use better ventilation.",4,Adult,Applied,Standard,FALSE,490
+179,8,"Ideal for reading and browsing, but speakers could be better.",4,Young Adult,Applied,Express,FALSE,491
+209,10,"Fast and smooth interface, but app selection is limited.",4,Mid-Age Adult,Applied,In Store,TRUE,492
+231,8,"Snappy and responsive, but limited app availability.",4,Young Adult,Not Applied,Express,FALSE,496
+180,3,This smartphone has an excellent display and battery life.,4,Adult,Not Applied,In Store,TRUE,507
+196,7,"Smooth performance, but lacks a headphone jack.",4,Youth,Not Applied,In Store,TRUE,508
+133,7,This tablet is perfect for media consumption and light gaming.,4,Young Adult,Applied,Standard,TRUE,511
+268,1,"Fast performance, but the phone heats up during gaming.",4,Youth,Applied,Standard,TRUE,513
+232,4,"Perfect for work and entertainment, but fan noise is noticeable.",4,Youth,Not Applied,Standard,FALSE,527
+211,8,"Great battery life and screen quality, but accessories are expensive.",4,Young Adult,Not Applied,In Store,TRUE,531
+27,15,"Battery life is excellent, although I experienced some connectivity issues.",4,Young Adult,Not Applied,In Store,FALSE,536
+117,3,"The camera quality is outstanding, but the battery drains quickly.",4,Adult,Applied,In Store,FALSE,543
+125,8,"Ideal for reading and browsing, but speakers could be better.",4,Adult,Not Applied,In Store,TRUE,550
+270,10,"Good budget-friendly TV, but viewing angles could be improved.",4,Young Adult,Not Applied,In Store,TRUE,560
+169,2,"Value for money, but software updates are slow.",4,Senior,Applied,Standard,TRUE,565
+47,1,"Feels premium in hand, but the software experience could be smoother.",5,Senior,Applied,Overnight,FALSE,9
+84,6,This laptop is powerful and handles multitasking with ease.,5,Mid-Age Adult,Applied,Overnight,FALSE,19
+32,1,"Good value, but this smartphone could have a better screen resolution.",5,Mid-Age Adult,Not Applied,Express,FALSE,22
+279,10,"Good budget-friendly TV, but viewing angles could be improved.",5,Mid-Age Adult,Not Applied,Standard,TRUE,25
+203,10,"Fast and smooth interface, but app selection is limited.",5,Adult,Applied,Standard,FALSE,27
+272,4,"Perfect for work and entertainment, but fan noise is noticeable.",5,Young Adult,Applied,Standard,FALSE,58
+17,8,"Good for casual use, but it’s not great at multitasking.",5,Senior,Applied,In Store,TRUE,66
+90,8,This tablet is perfect for media consumption and light gaming.,5,Youth,Applied,In Store,FALSE,72
+164,1,"The camera quality is outstanding, but the battery drains quickly.",5,Young Adult,Applied,Overnight,FALSE,75
+281,3,"The camera quality is outstanding, but the battery drains quickly.",5,Young Adult,Applied,In Store,FALSE,76
+43,12,"The setup was more complex than expected, but worth it for the picture quality.",5,Youth,Not Applied,Overnight,TRUE,79
+273,10,"Good budget-friendly TV, but viewing angles could be improved.",5,Young Adult,Not Applied,In Store,FALSE,83
+166,1,"The camera quality is outstanding, but the battery drains quickly.",5,Adult,Not Applied,Overnight,TRUE,87
+101,7,"Smooth performance, but lacks a headphone jack.",5,Young Adult,Applied,Standard,FALSE,90
+247,8,"Ideal for reading and browsing, but speakers could be better.",5,Adult,Applied,Overnight,FALSE,100
+204,10,Crisp audio and excellent 4K resolution for movies.,5,Senior,Applied,Express,TRUE,102
+257,7,"Great battery life and screen quality, but accessories are expensive.",5,Senior,Applied,Overnight,TRUE,108
+34,3,"Excellent build, but it lacks waterproofing for outdoor use.",5,Young Adult,Applied,Overnight,TRUE,112
+142,1,"Fast performance, but the phone heats up during gaming.",5,Adult,Not Applied,In Store,FALSE,115
+138,3,"Fast performance, but the phone heats up during gaming.",5,Youth,Not Applied,In Store,TRUE,126
+187,2,"The camera quality is outstanding, but the battery drains quickly.",5,Youth,Applied,Overnight,FALSE,133
+110,10,This TV has stunning picture quality and vibrant colors.,5,Adult,Applied,Standard,FALSE,144
+219,7,"Great battery life and screen quality, but accessories are expensive.",5,Youth,Applied,Standard,FALSE,158
+20,11,"Smart features are convenient, but the response time is a bit slow.",5,Mid-Age Adult,Not Applied,In Store,FALSE,161
+31,13,Comfortable for prolonged use; perfect for long trips.,5,Young Adult,Not Applied,Overnight,FALSE,169
+120,9,This tablet is perfect for media consumption and light gaming.,5,Adult,Applied,Standard,FALSE,170
+255,5,"Perfect for work and entertainment, but fan noise is noticeable.",5,Youth,Applied,Standard,FALSE,176
+287,10,"Great smart features, but the remote is not very responsive.",5,Senior,Not Applied,Express,TRUE,188
+275,9,"Ideal for reading and browsing, but speakers could be better.",5,Adult,Applied,Overnight,TRUE,195
+60,7,"Ideal for reading and browsing, but speakers could be better.",5,Senior,Not Applied,In Store,TRUE,222
+3,3,"Responsive performance, but the battery life is poor, leaving much to be desired.",5,Senior,Not Applied,Overnight,TRUE,223
+29,14,"Sound is satisfactory for the price, though they lack premium features.",5,Youth,Not Applied,Standard,TRUE,237
+250,3,"Sleek design and great features, but lacks expandable storage.",5,Mid-Age Adult,Applied,In Store,TRUE,258
+239,4,"Perfect for work and entertainment, but fan noise is noticeable.",5,Mid-Age Adult,Not Applied,Overnight,TRUE,268
+108,8,"Smooth performance, but lacks a headphone jack.",5,Adult,Not Applied,Standard,TRUE,287
+155,7,This tablet is perfect for media consumption and light gaming.,5,Mid-Age Adult,Not Applied,Standard,FALSE,299
+114,8,"Smooth performance, but lacks a headphone jack.",5,Young Adult,Applied,Overnight,FALSE,305
+168,4,"Fast boot times, but it overheats with heavy usage.",5,Adult,Applied,In Store,TRUE,310
+151,8,"Ideal for reading and browsing, but speakers could be better.",5,Young Adult,Not Applied,Express,FALSE,320
+194,3,"Sleek design and great features, but lacks expandable storage.",5,Young Adult,Not Applied,Standard,TRUE,338
+237,5,"Perfect for work and entertainment, but fan noise is noticeable.",5,Young Adult,Applied,Express,FALSE,350
+23,11,"Good value overall, but the remote control feels somewhat cheap.",5,Mid-Age Adult,Applied,Overnight,TRUE,352
+171,9,This tablet is perfect for media consumption and light gaming.,5,Senior,Not Applied,Express,TRUE,359
+165,5,"Perfect for work and entertainment, but fan noise is noticeable.",5,Senior,Not Applied,In Store,TRUE,362
+112,8,"Ideal for reading and browsing, but speakers could be better.",5,Young Adult,Not Applied,Express,TRUE,367
+158,5,"Perfect for work and entertainment, but fan noise is noticeable.",5,Young Adult,Applied,Overnight,FALSE,371
+73,7,"Smooth performance, but lacks a headphone jack.",5,Young Adult,Not Applied,Standard,TRUE,379
+68,9,This tablet is perfect for media consumption and light gaming.,5,Young Adult,Applied,Overnight,FALSE,382
+57,8,This tablet is perfect for media consumption and light gaming.,5,Senior,Not Applied,Standard,FALSE,402
+30,15,They didn’t last long; poor durability as they broke within a few months.,5,Adult,Not Applied,Standard,TRUE,404
+297,7,This tablet is perfect for media consumption and light gaming.,5,Youth,Not Applied,In Store,FALSE,405
+216,6,"Lightweight and portable, but the battery backup could be better.",5,Youth,Applied,Standard,FALSE,421
+11,5,"Very lightweight and easy to carry, but it lacks sufficient ports.",5,Senior,Applied,Overnight,FALSE,423
+214,3,"The camera quality is outstanding, but the battery drains quickly.",5,Youth,Not Applied,Express,TRUE,425
+222,7,"Great battery life and screen quality, but accessories are expensive.",5,Young Adult,Applied,In Store,TRUE,430
+7,4,"Excellent multitasking ability; however, the battery life could be longer.",5,Mid-Age Adult,Applied,Overnight,TRUE,433
+137,1,"Value for money, but software updates are slow.",5,Senior,Not Applied,In Store,TRUE,434
+254,1,"Sleek design and great features, but lacks expandable storage.",5,Adult,Not Applied,Overnight,FALSE,437
+249,3,"Sleek design and great features, but lacks expandable storage.",5,Adult,Not Applied,Overnight,FALSE,455
+85,3,This smartphone has an excellent display and battery life.,5,Mid-Age Adult,Not Applied,Overnight,TRUE,456
+229,6,"Fast boot times, but it overheats with heavy usage.",5,Adult,Applied,Express,FALSE,459
+37,6,"Build quality is excellent, but the battery drains quickly when gaming.",5,Mid-Age Adult,Not Applied,In Store,TRUE,473
+144,10,"Great smart features, but the remote is not very responsive.",5,Adult,Not Applied,Overnight,FALSE,475
+223,2,This smartphone has an excellent display and battery life.,5,Adult,Applied,Standard,TRUE,481
+224,2,"Sleek design and great features, but lacks expandable storage.",5,Senior,Not Applied,Express,TRUE,485
+159,2,"Fast performance, but the phone heats up during gaming.",5,Young Adult,Not Applied,Express,FALSE,497
+238,3,"Fast performance, but the phone heats up during gaming.",5,Mid-Age Adult,Applied,Standard,FALSE,498
+225,1,This smartphone has an excellent display and battery life.,5,Mid-Age Adult,Applied,Overnight,TRUE,502
+64,4,"Great keyboard and display, but storage space is limited.",5,Mid-Age Adult,Not Applied,In Store,TRUE,505
+10,4,"Great keyboard and display, but storage space is limited.",5,Senior,Not Applied,Overnight,TRUE,509
+99,5,This laptop is powerful and handles multitasking with ease.,5,Mid-Age Adult,Applied,Standard,FALSE,514
+39,8,"Good for reading and streaming, but not enough storage for a large app library.",5,Young Adult,Not Applied,Standard,TRUE,520
+70,7,This tablet is perfect for media consumption and light gaming.,5,Adult,Applied,In Store,FALSE,541
+18,9,"Battery life is excellent, although I experienced some charging issues.",5,Mid-Age Adult,Applied,Express,FALSE,553
+212,3,This smartphone has an excellent display and battery life.,5,Young Adult,Not Applied,In Store,TRUE,555
+153,6,"Fast boot times, but it overheats with heavy usage.",3,Young Adult,Applied,In Store,FALSE,47
+147,1,This smartphone has an excellent display and battery life.,3,Adult,Applied,Standard,FALSE,61
+83,5,"Lightweight and portable, but the battery backup could be better.",3,Adult,Applied,Standard,TRUE,91
+296,10,This TV has stunning picture quality and vibrant colors.,3,Mid-Age Adult,Not Applied,Standard,TRUE,97
+56,5,This laptop is powerful and handles multitasking with ease.,3,Youth,Not Applied,Standard,TRUE,101
+79,3,"Fast performance, but the phone heats up during gaming.",3,Senior,Not Applied,Overnight,FALSE,120
+119,8,This tablet is perfect for media consumption and light gaming.,3,Mid-Age Adult,Not Applied,Express,FALSE,125
+13,7,"Perfect for reading and streaming, though it could use a better camera.",3,Young Adult,Not Applied,Overnight,FALSE,128
+19,10,"The picture quality is outstanding, though sound quality could be improved.",3,Adult,Applied,Standard,FALSE,166
+140,5,"Lightweight and portable, but the battery backup could be better.",3,Adult,Applied,In Store,FALSE,167
+115,6,"Great keyboard and display, but storage space is limited.",3,Adult,Applied,Express,TRUE,177
+186,4,This laptop is powerful and handles multitasking with ease.,3,Young Adult,Applied,Overnight,TRUE,202
+260,8,This tablet is perfect for media consumption and light gaming.,3,Mid-Age Adult,Not Applied,Standard,TRUE,205
+285,6,"Great keyboard and display, but storage space is limited.",3,Adult,Applied,Express,FALSE,209
+234,4,"Lightweight and portable, but the battery backup could be better.",3,Mid-Age Adult,Applied,In Store,FALSE,211
+298,6,"Lightweight and portable, but the battery backup could be better.",3,Senior,Applied,Overnight,TRUE,217
+195,9,"Smooth performance, but lacks a headphone jack.",3,Young Adult,Applied,In Store,TRUE,218
+294,6,"Fast boot times, but it overheats with heavy usage.",3,Senior,Not Applied,Overnight,FALSE,233
+58,2,"The camera quality is outstanding, but the battery drains quickly.",3,Youth,Not Applied,Express,FALSE,243
+77,3,"Sleek design and great features, but lacks expandable storage.",3,Adult,Applied,In Store,FALSE,248
+182,8,"Smooth performance, but lacks a headphone jack.",3,Youth,Applied,In Store,TRUE,249
+177,6,"Fast boot times, but it overheats with heavy usage.",3,Young Adult,Not Applied,Express,FALSE,263
+235,9,"Great battery life and screen quality, but accessories are expensive.",3,Adult,Not Applied,Overnight,FALSE,265
+199,3,"Fast performance, but the phone heats up during gaming.",3,Mid-Age Adult,Not Applied,Standard,TRUE,267
+293,1,This smartphone has an excellent display and battery life.,3,Senior,Applied,In Store,FALSE,270
+290,9,This tablet is perfect for media consumption and light gaming.,3,Young Adult,Not Applied,Express,TRUE,275
+80,5,"Great keyboard and display, but storage space is limited.",3,Mid-Age Adult,Not Applied,Overnight,FALSE,286
+127,4,This laptop is powerful and handles multitasking with ease.,3,Adult,Applied,Express,TRUE,291
+118,2,"The camera quality is outstanding, but the battery drains quickly.",3,Youth,Not Applied,Express,FALSE,297
+75,6,This laptop is powerful and handles multitasking with ease.,3,Senior,Applied,Standard,FALSE,306
+289,8,"Great battery life and screen quality, but accessories are expensive.",3,Senior,Not Applied,Express,FALSE,311
+240,6,"Perfect for work and entertainment, but fan noise is noticeable.",3,Mid-Age Adult,Not Applied,Overnight,TRUE,314
+87,5,"Fast boot times, but it overheats with heavy usage.",3,Young Adult,Applied,In Store,TRUE,319
+173,5,"Fast boot times, but it overheats with heavy usage.",3,Adult,Not Applied,In Store,TRUE,325
+76,2,This smartphone has an excellent display and battery life.,3,Mid-Age Adult,Applied,Overnight,FALSE,328
+178,6,"Fast boot times, but it overheats with heavy usage.",3,Youth,Applied,Standard,FALSE,345
+233,9,This tablet is perfect for media consumption and light gaming.,3,Mid-Age Adult,Applied,Standard,TRUE,377
+227,8,"Snappy and responsive, but limited app availability.",3,Mid-Age Adult,Not Applied,Express,TRUE,389
+282,6,"Lightweight and portable, but the battery backup could be better.",3,Senior,Not Applied,In Store,TRUE,401
+243,6,"Great keyboard and display, but storage space is limited.",3,Youth,Applied,Express,TRUE,426
+284,5,"Lightweight and portable, but the battery backup could be better.",3,Senior,Not Applied,Standard,TRUE,429
+94,5,"Great keyboard and display, but storage space is limited.",3,Youth,Applied,Overnight,TRUE,453
+246,5,"Lightweight and portable, but the battery backup could be better.",3,Youth,Applied,In Store,TRUE,460
+248,2,"Sleek design and great features, but lacks expandable storage.",3,Senior,Not Applied,Standard,FALSE,519
+197,10,"Fast and smooth interface, but app selection is limited.",3,Youth,Applied,Overnight,FALSE,542
+278,6,This laptop is powerful and handles multitasking with ease.,3,Mid-Age Adult,Not Applied,In Store,FALSE,549
+69,2,"The camera quality is outstanding, but the battery drains quickly.",3,Adult,Applied,In Store,FALSE,562
+201,10,This TV has stunning picture quality and vibrant colors.,3,Youth,Applied,Express,TRUE,564
+176,1,"Sleek design and great features, but lacks expandable storage.",3,Youth,Applied,Standard,FALSE,567
